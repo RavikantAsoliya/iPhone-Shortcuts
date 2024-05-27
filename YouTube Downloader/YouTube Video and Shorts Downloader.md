@@ -13,6 +13,9 @@ In this tutorial, you'll learn how to create your own iPhone shortcut for downlo
 
 2. Tap on the "+" icon to create a new shortcut.
 
+<img src="https://github.com/RavikantAsoliya/iPhone-Shortcuts/blob/main/YouTube%20Downloader/Screeshots/Phase-1.jpg">
+
+
 ## Phase 2: Adding Actions
 
 ### Step 1:
@@ -31,6 +34,8 @@ In this tutorial, you'll learn how to create your own iPhone shortcut for downlo
 
 5. In the "Text" placeholder, select "Shortcut Input".
 
+<img src="https://github.com/RavikantAsoliya/iPhone-Shortcuts/blob/main/YouTube%20Downloader/Screeshots/Step-1.jpg">
+
 ### Step 2:
 
 After completing step 1, you will see that a block starting with "Receive" has been added.
@@ -40,3 +45,5 @@ After completing step 1, you will see that a block starting with "Receive" has b
 2. Click on "Continue" and replace it with the "Get Clipboard" option.
 
 3. In the "NowWhere" section, select "Share Sheet".
+
+<img src="https://github.com/RavikantAsoliya/iPhone-Shortcuts/blob/main/YouTube%20Downloader/Screeshots/Step-2.jpg">
